@@ -1,4 +1,4 @@
-const conf = require('../conf/conf.js');
+const conf = require('./conf.js');
 const { Client, Account, ID } = require('appwrite');
 
 class AuthService {
